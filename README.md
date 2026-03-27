@@ -59,7 +59,7 @@ Canva, GitHub, LinkedIn, Kaggle, HackerRank, Google Forms
 
 
 ## Report
- [Project Report](./report/Project_Report.pdf)
+ [Project Report]https://github.com/dishi25bce10742-rgb/digital-literacy-project/blob/main/digital%20literacy%20Project_Report.pdf
 
 
 
