@@ -37,7 +37,7 @@ GitHub profile README with my academic details.
 Solved the Arithmetic Operators challenge on HackerRank (Python). Created 
 a 5-question Digital Literacy Awareness Quiz using Google Forms.
  [View files](./task-3-platforms/)
- [Digital Literacy Quiz Form]([PASTE YOUR GOOGLE FORM LINK HERE])
+ [Digital Literacy Quiz Form] https://docs.google.com/forms/d/e/1FAIpQLSca5mkPt4A4uEzSUDBSc9DT2bDVPi1ThbODgBBa2hIHj27ESw/viewform?usp=publish-editor
 
 ### Task 4 – Email Etiquette
 Drafted two professional emails — one requesting an assignment extension 
