@@ -6,9 +6,9 @@ Respected Professor,
 
 I hope this email finds you well. I am writing to respectfully request 
 an extension of 2–3 days for the upcoming assignment submission deadline 
-for Digital literacy.
+for CSE0001.
 
-Due to overlapping deadlines / health issue], 
+Due to overlapping deadlines, 
 I have been unable to complete the assignment to the standard I aim for. 
 I assure you that I am actively working on it and will submit it at 
 the earliest.
@@ -17,6 +17,33 @@ I sincerely apologize for any inconvenience caused and would be grateful
 for your consideration.
 
 Thanking you,
-[Your Name]
-[Reg No. | Branch | Year]
+Dishi Jain
+25BCE10742 
 VIT Bhopal University
+
+# Email 2
+
+Subject: Application for Summer Internship Opportunity – Dishi Jain
+
+Dear Internship Coordinator,
+
+I am Dishi Jain, a first-year B.Tech CSE student at VIT Bhopal 
+University. I am writing to express my interest in a summer internship 
+opportunity at Google.
+
+I am eager to apply my foundational knowledge in programming and 
+problem-solving in a real-world environment. I believe this internship 
+would be a valuable learning experience and allow me to contribute 
+meaningfully to your team.
+
+I would be happy to share my academic details or GitHub profile if 
+required. Please find them attached below.
+
+Thank you for your time and consideration. I look forward to hearing 
+from you.
+
+Warm regards,
+Dishi Jain
+25BCE10742, CSE, 2025-29
+VIT Bhopal University
+
